@@ -1,12 +1,11 @@
 ### 👋 Hi there, I’m @GuanYung
 #### About me
 <p>I am a senior software engineer working in Multi National Company in Penang, Malaysia. </p>
-<p>I have vast experience writing software driver, unit tests, functional test, apps, implementing features, and debugging software bugs for test & measurement equipments and as well as for a test systems. C++ language, python and LabVIEW are languages that I use for day to day work. </p>
-<p>Over the years, I have build up strong foundation and have thorough understanding of software design in development methodologies including object-oriented analysis and design, software design pattern and data structures.</p>
+<p>I have vast experience writing software drivers, unit tests, functional test, apps, implementing features, and debugging software bugs for test & measurement equipments and as well as for a test systems. C++ language, python and LabVIEW are languages that I use for day to day work. </p>
+<p>Over the years, I have built up strong foundation and have a thorough understanding of software design in development methodologies including object-oriented analysis and design, software design pattern and data structures.</p>
 
 - 🌱 I’m currently learning and keep continue to enhance my programming skills using python language
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Expand my knowledge to web app using python flask and django framework
 - ⚡ Fun fact: I love to play badminton, jogging, watch movies
   
 ### Connect with me:
